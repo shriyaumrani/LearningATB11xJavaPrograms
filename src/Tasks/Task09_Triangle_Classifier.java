@@ -1,4 +1,4 @@
-package ex_09_Tasks;
+package Tasks;
 
 import java.util.Scanner;
 
@@ -12,6 +12,12 @@ public class Task09_Triangle_Classifier {
         int L2 = scanner.nextInt();
         int L3 = scanner.nextInt();
         System.out.println("L1"+"="+L1+'\n'+"L2"+"="+L2+'\n'+"L3"+"="+L3);
+        if (L1<=0 || L2<=0 || L3<=0){
+            System.out.println("This is not a triangle");
+
+
+            System.exit(0);
+        }
         if(L1 == L2 && L2 == L3 && L1==L3){
             System.out.println("The triangle is equilateral");
         } else if (L1 == L2 || L2 == L3 || L1==L3) {

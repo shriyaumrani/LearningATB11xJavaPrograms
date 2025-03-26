@@ -1,4 +1,4 @@
-package ex_09_Tasks;
+package Tasks;
 
 public class Task05_Userinput {
     public static void main(String[] args) {

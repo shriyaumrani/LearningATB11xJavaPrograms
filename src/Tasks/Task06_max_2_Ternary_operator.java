@@ -1,4 +1,4 @@
-package ex_09_Tasks;
+package Tasks;
 
 public class Task06_max_2_Ternary_operator {
 

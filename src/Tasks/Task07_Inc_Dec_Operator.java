@@ -1,4 +1,4 @@
-package ex_09_Tasks;
+package Tasks;
 
 public class Task07_Inc_Dec_Operator {
     public static void main(String[] args) {

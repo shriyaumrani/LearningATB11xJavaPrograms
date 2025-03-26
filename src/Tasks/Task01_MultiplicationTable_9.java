@@ -1,4 +1,4 @@
-package ex_09_Tasks;
+package Tasks;
 
 public class Task01_MultiplicationTable_9 {
     public static void main(String[] args) {

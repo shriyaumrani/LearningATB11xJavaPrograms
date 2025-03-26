@@ -1,4 +1,4 @@
-package ex_09_Tasks;
+package Tasks;
 
 public class Task02_Cuberoot {
     public static void main(String[] args) {
